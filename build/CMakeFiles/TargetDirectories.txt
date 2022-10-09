@@ -1,0 +1,7 @@
+/home/kirill/projects/geant4/srw1/build/CMakeFiles/install/strip.dir
+/home/kirill/projects/geant4/srw1/build/CMakeFiles/install/local.dir
+/home/kirill/projects/geant4/srw1/build/CMakeFiles/install.dir
+/home/kirill/projects/geant4/srw1/build/CMakeFiles/list_install_components.dir
+/home/kirill/projects/geant4/srw1/build/CMakeFiles/rebuild_cache.dir
+/home/kirill/projects/geant4/srw1/build/CMakeFiles/edit_cache.dir
+/home/kirill/projects/geant4/srw1/build/CMakeFiles/srw1.dir
